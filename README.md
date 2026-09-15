@@ -1,16 +1,13 @@
 <div align="center">
 
 # Hi, I'm marlboros9889 👋
-
 ### _Building thoughtful experiences, from interface to infrastructure._
 
 풀스택 개발자입니다.<br>
 사용자 흐름은 간결하게, 서비스의 핵심 규칙은 견고하게 구현합니다.
-
 <a href="mailto:marlboros9889@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="이메일 보내기" /></a>
 <a href="https://github.com/marlboros9889"><img src="https://img.shields.io/badge/GitHub-marlboros9889-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub 프로필" /></a>
 <a href="https://marlboros9889.github.io/AI_Full_stack/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="포트폴리오 사이트" /></a>
-
 </div>
 
 ---
@@ -22,7 +19,6 @@
 - **배포 환경** — 개발한 서비스를 AWS EC2와 Nginx 환경까지 연결하며 운영의 기본을 익힙니다.
 
 ## ✦ FEATURED PROJECT
-
 ### 💇 MarinboySalon
 
 > 고객 예약부터 관리자 운영까지 연결한 1인 헤어살롱 개인 풀스택 프로젝트
@@ -61,18 +57,13 @@
 | [AI_Full_stack](https://github.com/marlboros9889/AI_Full_stack) | Java·Spring부터 프론트엔드·DB·배포까지의 학습 기록과 예약 서비스 구현 |
 | [track009_aws](https://github.com/marlboros9889/track009_aws) | AWS 환경에서 웹 애플리케이션 배포 흐름을 학습한 프로젝트 |
 | [MarinboySalon](https://marinboysalon.duckdns.org/) | 1인 헤어살롱을 운영하기 위한 프로젝트 웹 개발 서비스 |
-| [개인포트폴리오](https://marlboros9889.github.io/AI_Full_stack/) |개인 포트폴리오 |
+| [개인포트폴리오](https://marlboros9889.github.io/AI_Full_stack/) | 개인 포트폴리오 |
 
 ## ✦ GITHUB SNAPSHOT
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marlboros9889&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&title_color=2563EB&text_color=475569&icon_color=2563EB" alt="GitHub 통계" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlboros9889&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=475569" alt="주요 사용 언어" />
-
-</div>
-
-<div align="center">
+GitHub 통계 서비스의 일시적 장애로 이미지가 깨지는 문제를 방지하기 위해, 프로젝트별 구현 내용과 배포 기록은 위 **PROJECT ARCHIVE**에서 확인할 수 있도록 구성했습니다.
 
 _작은 기능도 사용자에게 닿는 하나의 경험이라고 생각하며 개발합니다._ 🚀
 
