@@ -60,6 +60,7 @@
 | --- | --- |
 | [AI_Full_stack](https://github.com/marlboros9889/AI_Full_stack) | Java·Spring부터 프론트엔드·DB·배포까지의 학습 기록과 예약 서비스 구현 |
 | [track009_aws](https://github.com/marlboros9889/track009_aws) | AWS 환경에서 웹 애플리케이션 배포 흐름을 학습한 프로젝트 |
+| [MarinboySalon](https://marinboysalon.duckdns.org/) | 1인 헤어살롱을 운영하기 위한 프로젝트 웹 개발 서비스 |
 
 ## ✦ GITHUB SNAPSHOT
 
