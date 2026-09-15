@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Snapshot</title>
+  <desc id="desc">marlboros9889 portfolio overview: four repositories, one live service, and full-stack development.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e3a5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#background)"/>
+  <circle cx="1115" cy="75" r="155" fill="#2563eb" opacity="0.25"/>
+  <circle cx="1065" cy="375" r="120" fill="#38bdf8" opacity="0.12"/>
+  <text x="64" y="84" fill="#93c5fd" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="3">GITHUB SNAPSHOT</text>
+  <text x="64" y="136" fill="#f8fafc" font-family="Arial, sans-serif" font-size="38" font-weight="700">marlboros9889 · Full-stack Developer</text>
+  <text x="64" y="178" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="22">사용자 경험부터 서비스 규칙과 배포 환경까지 연결합니다.</text>
+  <g transform="translate(64 238)">
+    <rect width="300" height="112" rx="18" fill="#ffffff" opacity="0.10"/>
+    <text x="28" y="43" fill="#93c5fd" font-family="Arial, sans-serif" font-size="18" font-weight="700">PORTFOLIO</text>
+    <text x="28" y="84" fill="#f8fafc" font-family="Arial, sans-serif" font-size="31" font-weight="700">4 Repositories</text>
+  </g>
+  <g transform="translate(392 238)">
+    <rect width="300" height="112" rx="18" fill="#ffffff" opacity="0.10"/>
+    <text x="28" y="43" fill="#93c5fd" font-family="Arial, sans-serif" font-size="18" font-weight="700">FEATURED SERVICE</text>
+    <text x="28" y="84" fill="#f8fafc" font-family="Arial, sans-serif" font-size="31" font-weight="700">MarinboySalon</text>
+  </g>
+  <g transform="translate(720 238)">
+    <rect width="400" height="112" rx="18" fill="#ffffff" opacity="0.10"/>
+    <text x="28" y="43" fill="#93c5fd" font-family="Arial, sans-serif" font-size="18" font-weight="700">STACK</text>
+    <text x="28" y="84" fill="#f8fafc" font-family="Arial, sans-serif" font-size="27" font-weight="700">Next.js · Spring Boot · AWS</text>
+  </g>
+</svg>
